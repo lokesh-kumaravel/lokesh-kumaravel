@@ -3,7 +3,7 @@
 
 - 💫 View My Portfolio [https://lokeshportfolio-nine.vercel.app/](https://lokeshportfolio-nine.vercel.app/)
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning ** React Native, Springboot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lokesh-kumaravel](https://github.com/lokesh-kumaravel)
 
