@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lokesh K</h1>
 <h3 align="center">I am an aspiring software developer with a strong foundation in Java and a keen interest in Data Structures and Algorithms (DSA). Currently, I am focused on enhancing my skills in full-stack development, allowing me to build robust and scalable applications. My passion for coding drives me to continuously learn and explore new technologies, and I am eager to contribute to innovative projects and collaborate with like-minded developers.</h3>
 
-- 💫 View My Portfolio [https://lokeshportfolio-nine.vercel.app/](https://lokeshportfolio-nine.vercel.app/)
+- 💫 Visit My Portfolio [https://lokeshportfolio-nine.vercel.app/](https://lokeshportfolio-nine.vercel.app/)
 
-- 🌱 I’m currently learning ** React Native, Springboot**
+- 🌱 I’m currently learning **Springboot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lokesh-kumaravel](https://github.com/lokesh-kumaravel)
 
