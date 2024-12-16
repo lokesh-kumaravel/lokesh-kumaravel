@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lokesh K</h1>
-<h3 align="center">I am an aspiring software developer with a strong foundation in Java and a keen interest in Data Structures and Algorithms (DSA). Currently, I am focused on enhancing my skills in full-stack development, allowing me to build robust and scalable applications. My passion for coding drives me to continuously learn and explore new technologies, and I am eager to contribute to innovative projects and collaborate with like-minded developers.</h3>
+<h3 align="center">I am an aspiring software developer with a strong foundation in Java and a keen interest in Data Structures and Algorithms (DSA). Currently, I am focused on enhancing my skills in full-stack development, allowing me to build robust and scalable applications. My passion for coding drives me to continuously learn and explore new technologies, and I am eager to contribute to innovative projects and collaborate with like-minded developers</h3>
 
 - 💫 Visit My Portfolio [https://lokeshportfolio-nine.vercel.app/](https://lokeshportfolio-nine.vercel.app/)
 
