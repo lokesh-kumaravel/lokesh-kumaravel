@@ -38,7 +38,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokesh-kumaravel" alt="lokesh-kumaravel" /></a> </p>
 
-<h2 align="center">Leetcode Stats<h2>  
+<h1 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" padding-bottom="1">  Leetcode Stats
+</h1>  
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/lokeshkumaravel29?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
