@@ -52,7 +52,6 @@
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/lokeshkumaravel29?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <!---
 lokesh-kumaravel/lokesh-kumaravel is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
